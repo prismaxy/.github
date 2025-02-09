@@ -7,10 +7,10 @@
 
 # Frames
 
-Frames is a VOD streaming service built with react and NextJs around the Google Drive API.
+Prismaxy is a VOD streaming service built with react and NextJs around the Google Drive API.
 
-### What is frames and how does it work ?
-Frames is a web application that allows you to store, organise, download and stream media contents available on your Google Drive.
+### What is Prismaxy and how does it work ?
+Prismaxy is a web application that allows you to store, organise, download and stream media contents available on your Google Drive.
 The application enables you share this library without compromising the integrity of the original files.
 It organises the Movies and TV shows on your drive account, providing you with their trailer, HD images and other info
 
